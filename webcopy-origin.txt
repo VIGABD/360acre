@@ -1,0 +1,1292 @@
+Uri: https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRUAw.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRUAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RUAw.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RUAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-a_NUAw.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-a_NUAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-DPNUAw.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-DPNUAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-NfNUAw.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-NfNUAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7c8R496.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7c8R496.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7dbR496.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7dbR496.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7diR496.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7diR496.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7e8QI96.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7e8QI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7eOQI96.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7eOQI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX-KVElMYYaJe8bpLHnCwDKhdTeEA.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYX-KVElMYYaJe8bpLHnCwDKhdTeEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX-KVElMYYaJe8bpLHnCwDKjbLeEA.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYX-KVElMYYaJe8bpLHnCwDKjbLeEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTm2IdscQ.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYX7KVElMYYaJe8bpLHnCwDKhdTm2IdscQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTm5IVscQ.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYX7KVElMYYaJe8bpLHnCwDKhdTm5IVscQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTmrINscQ.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYX7KVElMYYaJe8bpLHnCwDKhdTmrINscQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTmvIRscQ.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYX7KVElMYYaJe8bpLHnCwDKhdTmvIRscQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTmyIJscQ.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYX7KVElMYYaJe8bpLHnCwDKhdTmyIJscQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX8KVElMYYaJe8bpLHnCwDKhdTmdKZM.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYX8KVElMYYaJe8bpLHnCwDKhdTmdKZM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjQ76MIY.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYX9KVElMYYaJe8bpLHnCwDKjQ76MIY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjR7_MIY.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYX9KVElMYYaJe8bpLHnCwDKjR7_MIY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjSL9MIY.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYX9KVElMYYaJe8bpLHnCwDKjSL9MIY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjWr7MIY.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYX9KVElMYYaJe8bpLHnCwDKjWr7MIY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjXr8MIY.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYX9KVElMYYaJe8bpLHnCwDKjXr8MIY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYXgKVElMYYaJe8bpLHnCwDKtdY.ttf
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\s\ibmplexsans\v19\zYXgKVElMYYaJe8bpLHnCwDKtdY.ttf
+Content Type: font/ttf
+
+Uri: https://html.fleexstudio.com/homz/404.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\404.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/about.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\about.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/agency-details.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\agency-details.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/agency.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\agency.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/agent-details.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\agent-details.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/agent.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\agent.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/assets/css/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.fleexstudio.com/homz/assets/css/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.fleexstudio.com/homz/assets/css/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.fleexstudio.com/homz/assets/css/fonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://html.fleexstudio.com/homz/assets/css/main.css
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\main.css
+Content Type: text/css
+
+Uri: https://html.fleexstudio.com/homz/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\plugins\aos.css
+Content Type: text/css
+
+Uri: https://html.fleexstudio.com/homz/assets/css/plugins/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\plugins\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://html.fleexstudio.com/homz/assets/css/plugins/fontawesome.css
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\plugins\fontawesome.css
+Content Type: text/css
+
+Uri: https://html.fleexstudio.com/homz/assets/css/plugins/magnific-popup.css
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\plugins\magnific-popup.css
+Content Type: text/css
+
+Uri: https://html.fleexstudio.com/homz/assets/css/plugins/mobile.css
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\plugins\mobile.css
+Content Type: text/css
+
+Uri: https://html.fleexstudio.com/homz/assets/css/plugins/nice-select.css
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\plugins\nice-select.css
+Content Type: text/css
+
+Uri: https://html.fleexstudio.com/homz/assets/css/plugins/owlcarousel.min.css
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\plugins\owlcarousel.min.css
+Content Type: text/css
+
+Uri: https://html.fleexstudio.com/homz/assets/css/plugins/sidebar.css
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\plugins\sidebar.css
+Content Type: text/css
+
+Uri: https://html.fleexstudio.com/homz/assets/css/plugins/slick-slider.css
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\css\plugins\slick-slider.css
+Content Type: text/css
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/404.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\404.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img10.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img10.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img11.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img11.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img12.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img12.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img13.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img13.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img14.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img14.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img15.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img15.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img16.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img16.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img6.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img6.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img7.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img7.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img8.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img8.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/about-img9.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\about-img9.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/agent-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\agent-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/auhtor-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\auhtor-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/auhtor-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\auhtor-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/auhtor-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\auhtor-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/auhtor-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\auhtor-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/auhtor-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\auhtor-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/auhtor-img6.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\auhtor-img6.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img10.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img10.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img11.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img11.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img12.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img12.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img13.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img13.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img14.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img14.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img15.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img15.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img16.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img16.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img17.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img17.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img18.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img18.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img19.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img19.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img20.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img20.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img21.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img21.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img22.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img22.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img23.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img23.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img6.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img6.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img7.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img7.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img8.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img8.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/blog-img9.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\blog-img9.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/choose-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\choose-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/cta-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\cta-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img10.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img10.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img11.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img11.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img12.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img12.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img13.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img13.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img14.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img14.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img6.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img6.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img7.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img7.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img8.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img8.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/features-img9.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\features-img9.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/footer-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\footer-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/footer-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\footer-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/footer-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\footer-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/footer-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\footer-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/gallery-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\gallery-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/gallery-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\gallery-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/gallery-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\gallery-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/gallery-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\gallery-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/gallery-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\gallery-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/gallery-img6.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\gallery-img6.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/gallery-img7.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\gallery-img7.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/header-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\header-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/header-img10.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\header-img10.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/header-img11.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\header-img11.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/header-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\header-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/header-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\header-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/header-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\header-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/header-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\header-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/header-img6.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\header-img6.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/header-img7.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\header-img7.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/header-img8.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\header-img8.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/header-img9.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\header-img9.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/insta-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\insta-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/insta-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\insta-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/insta-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\insta-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/insta-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\insta-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/insta-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\insta-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/insta-img6.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\insta-img6.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/listing-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\listing-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/listing-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\listing-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/listing-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\listing-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/listing-side-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\listing-side-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/listing-side-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\listing-side-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/listing-side-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\listing-side-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/listing-side-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\listing-side-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/location-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\location-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/location-img10.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\location-img10.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/location-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\location-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/location-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\location-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/location-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\location-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/location-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\location-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/location-img6.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\location-img6.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/location-img7.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\location-img7.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/location-img8.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\location-img8.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/location-img9.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\location-img9.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/mission-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\mission-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/mission-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\mission-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/others-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\others-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/propert-single1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\propert-single1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/property-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\property-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/property-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\property-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/property-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\property-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/property-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\property-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/property-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\property-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/property-img6.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\property-img6.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/publish-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\publish-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/publish-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\publish-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/service-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\service-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/service-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\service-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/service-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\service-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/service-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\service-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/service-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\service-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/single-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\single-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/single-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\single-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/single-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\single-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/single-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\single-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/single-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\single-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/team-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\team-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/team-img10.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\team-img10.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/team-img11.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\team-img11.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/team-img12.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\team-img12.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/team-img13.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\team-img13.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/team-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\team-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/team-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\team-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/team-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\team-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/team-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\team-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/team-img6.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\team-img6.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/team-img7.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\team-img7.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/team-img8.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\team-img8.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/team-img9.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\team-img9.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/testimonial-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\testimonial-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/testimonial-img10.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\testimonial-img10.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/testimonial-img11.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\testimonial-img11.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/testimonial-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\testimonial-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/testimonial-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\testimonial-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/testimonial-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\testimonial-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/testimonial-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\testimonial-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/testimonial-img6.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\testimonial-img6.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/testimonial-img7.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\testimonial-img7.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/testimonial-img8.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\testimonial-img8.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/testimonial-img9.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\testimonial-img9.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/all-images/visit-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\all-images\visit-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/bg/bg1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\bg\bg1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/bg/bg2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\bg\bg2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/bg/cta-bg1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\bg\cta-bg1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/bg/header-bg1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\bg\header-bg1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/bg/header-bg2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\bg\header-bg2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/demo/demo-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\demo\demo-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/demo/demo-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\demo\demo-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/demo/demo-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\demo\demo-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/demo/demo-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\demo\demo-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/demo/demo-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\demo\demo-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/arrow1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\arrow1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/brand-img1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\brand-img1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/brand-img2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\brand-img2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/brand-img3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\brand-img3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/brand-img4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\brand-img4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/brand-img5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\brand-img5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/brand-img6.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\brand-img6.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/brand-img7.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\brand-img7.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/brand-img8.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\brand-img8.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/brand-img9.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\brand-img9.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/circle.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\circle.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/header-bg1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\header-bg1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/header-bg3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\header-bg3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/header-bg4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\header-bg4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/star1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\star1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/elements/star2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\elements\star2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/arrow-img5.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\arrow-img5.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/arrow1.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\arrow1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/arrow2.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\arrow2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/arrow3.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\arrow3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/arrow4.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\arrow4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/arrow6.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\arrow6.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/author1.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\author1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/bath.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\bath.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/bed.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\bed.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/calender1.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\calender1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/call1.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\call1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/call2.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\call2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/choose1.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\choose1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/choose2.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\choose2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/choose3.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\choose3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/home-icon1.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\home-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/home-icon2.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\home-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/kitchen.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\kitchen.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/like.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\like.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/like1.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\like1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/like3.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\like3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/like4.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\like4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/like5.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\like5.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/like6.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\like6.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/like7.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\like7.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/location1.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\location1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/location2.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\location2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/logo-icon.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\logo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/logo-icon1.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\logo-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/logo-icon2.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\logo-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/logo-icon3.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\logo-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/logo-icon4.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\logo-icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/mail1.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\mail1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/quito.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\quito.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/quito2.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\quito2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/search1.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\search1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/search2.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\search2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/service-icon1.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\service-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/service-icon2.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\service-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/service-icon3.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\service-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/service-icon4.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\service-icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/service-icon5.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\service-icon5.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/service-icon6.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\service-icon6.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/service-icon7.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\service-icon7.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/service-icon8.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\service-icon8.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/setting-icon1.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\setting-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/icons/sqft.svg
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\icons\sqft.svg
+Content Type: image/svg+xml
+
+Uri: https://html.fleexstudio.com/homz/assets/img/logo/fav-logo1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\logo\fav-logo1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/logo/fav-logo2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\logo\fav-logo2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/logo/fav-logo3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\logo\fav-logo3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/logo/fav-logo4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\logo\fav-logo4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/logo/fav-logo5.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\logo\fav-logo5.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/logo/logo1.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\logo\logo1.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/logo/logo2.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\logo\logo2.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/logo/logo3.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\logo\logo3.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/img/logo/logo4.png
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\img\logo\logo4.png
+Content Type: image/png
+
+Uri: https://html.fleexstudio.com/homz/assets/js/main.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\main.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\aos.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/circle-progress.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\circle-progress.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/counter.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\counter.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/fontawesome.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\fontawesome.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/gsap.min.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\gsap.min.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/jquery-3-6-0.min.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\jquery-3-6-0.min.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/magnific-popup.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\magnific-popup.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/mobilemenu.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\mobilemenu.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/nice-select.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\nice-select.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/owlcarousel.min.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\owlcarousel.min.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\ScrollTrigger.min.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/sidebar.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\sidebar.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/slick-slider.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\slick-slider.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/Splitetext.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\Splitetext.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/assets/js/plugins/waypoints.js
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\assets\js\plugins\waypoints.js
+Content Type: text/javascript
+
+Uri: https://html.fleexstudio.com/homz/blog-left.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\blog-left.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/blog-right.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\blog-right.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/blog-single.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\blog-single.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/blog.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\blog.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/blog2.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\blog2.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/contact.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\contact.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/faq.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\faq.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/index.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\index.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/index2.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\index2.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/index3.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\index3.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/index4.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\index4.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/index5.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\index5.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/property-listing-left.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\property-listing-left.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/property-listing-right.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\property-listing-right.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/property-listing.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\property-listing.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/property-location.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\property-location.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/property-sell-rent.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\property-sell-rent.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/property-single.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\property-single.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/property.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\property.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/single-index1.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\single-index1.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/single-index2.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\single-index2.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/single-index3.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\single-index3.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/single-index4.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\single-index4.html
+Content Type: text/html
+
+Uri: https://html.fleexstudio.com/homz/single-index5.html
+File Name: C:\Downloaded Web Sites\html.fleexstudio.com\homz\single-index5.html
+Content Type: text/html
+
